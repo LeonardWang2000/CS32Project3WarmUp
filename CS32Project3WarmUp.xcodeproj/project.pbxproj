@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DEA0F35D2214F2790091572D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEA0F35C2214F2790091572D /* main.cpp */; };
+		DEA0F35D2214F2790091572D /* Project3WarmUp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEA0F35C2214F2790091572D /* Project3WarmUp.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DEA0F3592214F2790091572D /* CS32Project3WarmUp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CS32Project3WarmUp; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEA0F35C2214F2790091572D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DEA0F35C2214F2790091572D /* Project3WarmUp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Project3WarmUp.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		DEA0F35B2214F2790091572D /* CS32Project3WarmUp */ = {
 			isa = PBXGroup;
 			children = (
-				DEA0F35C2214F2790091572D /* main.cpp */,
+				DEA0F35C2214F2790091572D /* Project3WarmUp.cpp */,
 			);
 			path = CS32Project3WarmUp;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEA0F35D2214F2790091572D /* main.cpp in Sources */,
+				DEA0F35D2214F2790091572D /* Project3WarmUp.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
